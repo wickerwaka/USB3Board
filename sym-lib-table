@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB3Board")(type "KiCad")(uri "${KIPRJMOD}/USB3Board.kicad_sym")(options "")(descr ""))
+)
